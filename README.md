@@ -4,6 +4,7 @@ Competition Link: https://www.kaggle.com/competitions/playground-series-s4e4/lea
 
 Result: 4th/2608
 
+
 [TR]  
 Problem: Deniz kulaklarının yaşlarının tahmin edilmesi.
 
